@@ -1,0 +1,1 @@
+struct DLL *temp=last;
